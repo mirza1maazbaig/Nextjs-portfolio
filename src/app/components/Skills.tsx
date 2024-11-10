@@ -1,4 +1,6 @@
+import { imageConfigDefault } from 'next/dist/shared/lib/image-config'
 import React from 'react'
+imageConfigDefault
 
 const Skills = () => {
   return (
