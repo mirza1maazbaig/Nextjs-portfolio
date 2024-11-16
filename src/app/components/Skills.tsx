@@ -11,7 +11,7 @@ const Skills = () => {
           <p className="text-blue-500 pt-2
           ">
             I have a solid foundation in development,utilizing in HTML,CSS and JavaScript .My experience extends to using frameworks like React and Next Js to create dynamic and 
-            user-friendly applications. I'm also proficient in technologies to enhance my skill set and contribute effectively to projects. 
+            user-friendly applications. I&apos;m also proficient in technologies to enhance my skill set and contribute effectively to projects. 
           </p>
           
         </div>
